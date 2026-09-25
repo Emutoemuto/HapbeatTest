@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.hapbeat.sdk": {
+      "version": "https://github.com/Hapbeat/hapbeat-unity-sdk.git#a74107150920330fec6077ecdf05c9f6da02d6ed",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.ugui": "2.0.0"
+      },
+      "hash": "a74107150920330fec6077ecdf05c9f6da02d6ed"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.14",
       "depth": 0,

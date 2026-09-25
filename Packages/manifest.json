@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.hapbeat.sdk": "https://github.com/Hapbeat/hapbeat-unity-sdk.git#a74107150920330fec6077ecdf05c9f6da02d6ed",
     "com.unity.ai.navigation": "2.0.14",
     "com.unity.collab-proxy": "2.12.4",
     "com.unity.ide.rider": "3.0.40",
