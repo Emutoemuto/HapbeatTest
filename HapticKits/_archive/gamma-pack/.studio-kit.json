@@ -1,0 +1,13 @@
+{
+  "id": "1790360181860-5hzi2cl",
+  "name": "gamma-pack",
+  "version": "1.0.0",
+  "description": "",
+  "events": [],
+  "createdAt": "2026-09-25T18:16:21.860Z",
+  "updatedAt": "2026-09-25T18:16:21.866Z",
+  "targetDevice": {
+    "volume_wiper": 28,
+    "volume_level": 2
+  }
+}

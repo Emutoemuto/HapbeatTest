@@ -1,0 +1,74 @@
+{
+  "id": "1790360210697-46x0dx7",
+  "name": "grtp",
+  "version": "1.0.0",
+  "description": "",
+  "events": [
+    {
+      "id": "1790360306691-hdghuhs",
+      "eventId": "grtp.robot_appear",
+      "clipName": "robot_appear",
+      "clipSourceFilename": "template/fps-sample/impact.wav",
+      "clipDuration": 3.588,
+      "clipChannels": 1,
+      "clipSampleRate": 16000,
+      "clipFileSize": 114856,
+      "note": "fps-sample/charge.wav",
+      "modes": [
+        "command"
+      ],
+      "loop": false,
+      "intensity": 0.5,
+      "deviceWiper": null,
+      "clipOutputFilenames": {
+        "command": "robot_appear.wav"
+      }
+    },
+    {
+      "id": "1790360319465-lq98l9l",
+      "eventId": "grtp.tea_spill",
+      "clipName": "tea_spill",
+      "clipSourceFilename": "template/fps-sample/splash.wav",
+      "clipDuration": 1.001,
+      "clipChannels": 1,
+      "clipSampleRate": 16000,
+      "clipFileSize": 32064,
+      "note": "fps-sample/booster.wav",
+      "modes": [
+        "command"
+      ],
+      "loop": false,
+      "intensity": 0.5,
+      "deviceWiper": null,
+      "clipOutputFilenames": {
+        "command": "tea_spill.wav"
+      }
+    },
+    {
+      "id": "1790360337460-ct76zje",
+      "eventId": "grtp.city_flood",
+      "clipName": "city_flood",
+      "clipSourceFilename": "template/showcase-kit/z5_charge_loop.wav",
+      "clipDuration": 10,
+      "clipChannels": 2,
+      "clipSampleRate": 16000,
+      "clipFileSize": 640044,
+      "note": "showcase-kit/z5_charge_loop.wav",
+      "modes": [
+        "command"
+      ],
+      "loop": false,
+      "intensity": 0.5,
+      "deviceWiper": null,
+      "clipOutputFilenames": {
+        "command": "city_flood.wav"
+      }
+    }
+  ],
+  "createdAt": "2026-09-25T18:16:50.696Z",
+  "updatedAt": "2026-09-25T18:19:53.249Z",
+  "targetDevice": {
+    "volume_wiper": 28,
+    "volume_level": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "2.0.0",
+  "version": "1.0.0",
+  "name": "gamma-pack",
+  "description": "",
+  "author": "",
+  "created_at": "2026-09-25T18:16:21.860Z",
+  "target_device": {
+    "firmware_version_min": "0.1.0",
+    "volume_level": 2,
+    "volume_wiper": 28
+  },
+  "events": {},
+  "install_clips": {}
+}

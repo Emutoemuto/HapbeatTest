@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: HapbeatConfig
   m_EditorClassIdentifier: Hapbeat.Runtime::Hapbeat.HapbeatConfig
   port: 7700
-  appName: HBTEST
+  appName: GRTP
   buildOverridePlayer: -1
   buildOverrideGroup: -1
   autoReconnect: 1

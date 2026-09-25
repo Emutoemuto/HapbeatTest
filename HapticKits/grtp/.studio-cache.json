@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "wavs": {
+    "install-clips/robot_appear.wav": "804e23a2aaa28e9b1981b5dab86aeb860a492382",
+    "install-clips/tea_spill.wav": "8963de706c505123f86ca9036cb1834b20810b36",
+    "install-clips/city_flood.wav": "416f71e64f4b77bf0ce7e8bedc240448bdc2df1d"
+  },
+  "writtenAt": "2026-09-25T18:20:27.339Z",
+  "writtenByKitName": "grtp"
+}
