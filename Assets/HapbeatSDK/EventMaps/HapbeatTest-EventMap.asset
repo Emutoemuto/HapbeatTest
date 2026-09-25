@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9c34b08ac7b8c4f954b03abe0affb3, type: 3}
+  m_Name: HapbeatTest-EventMap
+  m_EditorClassIdentifier: Hapbeat.Runtime::Hapbeat.HapbeatEventMap
+  entries:
+  - _id: cf331e73d62d4f528b173782e7be4ab9
+    mode: 0
+    displayName: "\u30ED\u30DC\u767B\u5834\uFF08\u4EE3\u5F79\uFF09"
+    category: hbtest
+    eventName: impact
+    streamClip: {fileID: 0}
+    loop: 0
+    bindings: []
+    gain: 1
+    target: 
+    delayOffsetSeconds: 0
+    notes: 
+    manifestOverride: {fileID: 0}
+    _cachedManifestIntensity: -1
+  - _id: e8a6a6e83ad14a138a3ac8b8a66f3801
+    mode: 0
+    displayName: "\u3053\u307C\u308C\uFF08\u4EE3\u5F79\uFF09"
+    category: hbtest
+    eventName: splash
+    streamClip: {fileID: 0}
+    loop: 0
+    bindings: []
+    gain: 1
+    target: 
+    delayOffsetSeconds: 0
+    notes: 
+    manifestOverride: {fileID: 0}
+    _cachedManifestIntensity: -1
+  - _id: 2ff3169c11154f919037625a965894f6
+    mode: 0
+    displayName: "\u8857\u304C\u6D41\u3055\u308C\u308B\uFF08\u4EE3\u5F79\uFF09"
+    category: hbtest
+    eventName: rumble
+    streamClip: {fileID: 0}
+    loop: 0
+    bindings: []
+    gain: 1
+    target: 
+    delayOffsetSeconds: 0
+    notes: 
+    manifestOverride: {fileID: 0}
+    _cachedManifestIntensity: -1
+  revertPlayModeChanges: 0
