@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "wavs": {
+    "install-clips/impact.wav": "804e23a2aaa28e9b1981b5dab86aeb860a492382",
+    "install-clips/splash.wav": "8963de706c505123f86ca9036cb1834b20810b36",
+    "install-clips/rumble.wav": "3894ec5583271597a0dcc5d9f3b97f43a8997ff5"
+  },
+  "writtenAt": "2026-09-25T16:12:40.391Z",
+  "writtenByKitName": "hbtest"
+}

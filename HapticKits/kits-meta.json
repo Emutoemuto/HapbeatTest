@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1790352009806-x8j997s",
+    "name": "hbtest",
+    "version": "1.0.0",
+    "description": "",
+    "events": [
+      {
+        "id": "1790352665801-cyt1d0x",
+        "eventId": "hbtest.impact",
+        "clipName": "impact",
+        "clipSourceFilename": "template/fps-sample/impact.wav",
+        "clipDuration": 3.588,
+        "clipChannels": 1,
+        "clipSampleRate": 16000,
+        "clipFileSize": 114856,
+        "note": "fps-sample/charge.wav",
+        "modes": [
+          "command"
+        ],
+        "loop": false,
+        "intensity": 0.5,
+        "deviceWiper": null
+      },
+      {
+        "id": "1790352670068-yrknfmv",
+        "eventId": "hbtest.splash",
+        "clipName": "splash",
+        "clipSourceFilename": "template/fps-sample/splash.wav",
+        "clipDuration": 1.001,
+        "clipChannels": 1,
+        "clipSampleRate": 16000,
+        "clipFileSize": 32064,
+        "note": "fps-sample/booster.wav",
+        "modes": [
+          "command"
+        ],
+        "loop": false,
+        "intensity": 0.5,
+        "deviceWiper": null
+      },
+      {
+        "id": "1790352679697-95piqcf",
+        "eventId": "hbtest.rumble",
+        "clipName": "rumble",
+        "clipSourceFilename": "template/sine-tones/rumble.wav",
+        "clipDuration": 1,
+        "clipChannels": 2,
+        "clipSampleRate": 16000,
+        "clipFileSize": 64044,
+        "note": "sine-tones/125hz.wav",
+        "modes": [
+          "command"
+        ],
+        "loop": false,
+        "intensity": 0.5,
+        "deviceWiper": null
+      }
+    ],
+    "createdAt": "2026-09-25T16:00:09.806Z",
+    "updatedAt": "2026-09-25T16:12:25.114Z",
+    "targetDevice": {
+      "volume_wiper": 28,
+      "volume_level": 2
+    }
+  }
+]
